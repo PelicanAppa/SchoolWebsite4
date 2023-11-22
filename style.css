@@ -1,0 +1,16 @@
+.travel_mainDiv{
+    border: 1px solid rgb(139, 139, 139);
+}
+
+#school_achievement2{
+    text-align: center;
+}
+
+.new{
+    margin-bottom: 20px;
+}
+
+#contact iframe{
+    width: 100%;
+    height: 1000px;
+}
